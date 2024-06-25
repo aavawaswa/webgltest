@@ -1,9 +1,9 @@
 const cacheName = "PerpCow-Vaca_por_Antioquia-1";
 const contentToCache = [
     "Build/webgltest.loader.js",
-    "Build/webgltest.framework.js.gz",
-    "Build/webgltest.data.gz",
-    "Build/webgltest.wasm.gz",
+    "Build/webgltest.framework.js",
+    "Build/webgltest.data",
+    "Build/webgltest.wasm",
     "TemplateData/style.css"
 
 ];
